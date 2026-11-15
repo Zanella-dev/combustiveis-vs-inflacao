@@ -1,0 +1,7 @@
+ponderacao,produto,n_meses,pearson_r,p_valor
+media simples dos postos,gasolina,169,0.5202527910192394,4.183657949041403e-13
+media simples dos postos,diesel,169,0.4173352420358646,1.6536181056261356e-08
+media simples dos postos,etanol,169,0.5112246220256963,1.2272589690474308e-12
+media das medias estaduais (peso igual por UF),gasolina,169,0.5182961143742175,5.296930798620205e-13
+media das medias estaduais (peso igual por UF),diesel,169,0.44188632124327654,1.8058665991517425e-09
+media das medias estaduais (peso igual por UF),etanol,169,0.5435855029255546,2.2261877319813262e-14

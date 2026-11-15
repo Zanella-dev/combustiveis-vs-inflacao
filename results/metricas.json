@@ -1,0 +1,30 @@
+{
+  "n_meses_utilizaveis": 158,
+  "n_treino": 118,
+  "n_teste": 40,
+  "periodo_treino": [
+    "2006-09",
+    "2023-02"
+  ],
+  "periodo_teste": [
+    "2023-03",
+    "2026-06"
+  ],
+  "modelo_escolhido": "Ridge",
+  "limiar_ipca_alto": 0.7375,
+  "metricas_teste_escolhido": {
+    "MAE": 0.19611841100062644,
+    "RMSE": 0.2536425839021935,
+    "R2": 0.13225572742674307
+  },
+  "metricas_teste_baseline_media": {
+    "MAE": 0.24217796610169495,
+    "RMSE": 0.29824428309480805,
+    "R2": -0.1997525276333425
+  },
+  "metricas_teste_baseline_naive": {
+    "MAE": 0.257,
+    "RMSE": 0.3443181668166813,
+    "R2": -0.5990693282978146
+  }
+}
